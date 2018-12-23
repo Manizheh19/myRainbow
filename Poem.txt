@@ -3,4 +3,5 @@ Blue
 Green
 yellow
 Magenta
+Pink
 are the colors of rainbow!

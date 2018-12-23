@@ -2,6 +2,7 @@ Red
 Blue
 Green
 yellow
-Magenta
-Pink
+...
 are the colors of rainbow!
+The rainbow starts after rain soon.
+I love to see it behind the window

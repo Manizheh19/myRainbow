@@ -1,5 +1,6 @@
 Red
 Blue
 Green
+yellow
 Magenta
 are the colors of rainbow!
